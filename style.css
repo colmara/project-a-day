@@ -1,6 +1,6 @@
 .title-image {
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     opacity: 0.8;
     margin-left: auto;
     margin-right: auto;
@@ -9,9 +9,9 @@
 }
 
 .title {
-    font-family: "Shadows Into Light";
+    font-family: "Shadows Into Light", serif;
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 6rem;
     position: absolute;
     top: 50%;
     left: 58%;
@@ -19,9 +19,22 @@
     color: white;
 }
 
-
-
 .title-container {
     position: relative;
 
+}
+
+.day-buttons {
+    text-align: center;
+}
+
+.day-button {
+    font-family: "Shadows Into Light", serif;
+    font-size: 3rem;
+    background-color: #708090;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    margin: 50px;
+    color: white;
 }
