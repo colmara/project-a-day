@@ -1,0 +1,27 @@
+.title-image {
+    width: 50%;
+    height: 50%;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    display: block;
+}
+
+.title {
+    font-family: "Shadows Into Light";
+    text-align: center;
+    font-size: 4.5rem;
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    transform: translate(-50%, -42%);
+    color: white;
+}
+
+
+
+.title-container {
+    position: relative;
+
+}
