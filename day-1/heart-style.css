@@ -2,6 +2,9 @@ body {
     font-family: "Bebas Neue", sans-serif, serif, monospace;
 }
 
+.greeting {
+    
+}
 .title{
     text-align: center;
     font-size: 5rem;
@@ -17,3 +20,25 @@ body {
     font-size: 3rem;
 }
 
+.message1 {
+    text-align: center;
+    position: relative;
+}
+
+.heart {
+    width: 30%;
+}
+
+.be-mine {
+    font-size: 5rem;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    color:antiquewhite;
+    opacity: 0%;
+}
+
+.message1:hover >.be-mine {
+    opacity: 100%;
+}
