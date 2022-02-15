@@ -1,0 +1,19 @@
+body {
+    font-family: "Bebas Neue", sans-serif, serif, monospace;
+}
+
+.title{
+    text-align: center;
+    font-size: 5rem;
+}
+
+.heart {
+    color: pink;
+}
+
+
+.subtitle {
+    text-align: center;
+    font-size: 3rem;
+}
+
