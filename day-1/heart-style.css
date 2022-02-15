@@ -39,6 +39,6 @@ body {
     opacity: 0%;
 }
 
-.message1:hover >.be-mine {
+.be-mine:hover {
     opacity: 100%;
 }
