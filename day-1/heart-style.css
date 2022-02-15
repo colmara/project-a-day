@@ -20,7 +20,9 @@ body {
     font-size: 3rem;
 }
 
-.message1 {
+.message1, 
+.message2,
+.message3 {
     text-align: center;
     position: relative;
 }
@@ -29,7 +31,9 @@ body {
     width: 30%;
 }
 
-.be-mine {
+.be-mine,
+.cutie-pie,
+.i-love-you {
     font-size: 5rem;
     position: absolute;
     top: 20%;
@@ -39,6 +43,8 @@ body {
     opacity: 0%;
 }
 
-.be-mine:hover {
+.be-mine:hover,
+.cutie-pie:hover,
+.i-love-you:hover {
     opacity: 100%;
 }
